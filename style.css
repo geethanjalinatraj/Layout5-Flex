@@ -1,0 +1,64 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+body{
+    height: 100vh;
+    width: 100vw;
+}
+
+h1{
+    color: white;
+    font-size: 25px;
+    background-color: purple;
+    padding: 2em;
+    text-align: center;
+
+}
+
+.container{
+    margin: 10px;
+    display: flex;
+}
+
+.divs{
+    padding: 1.5em;
+    margin: 8px;
+    height: 480px;
+    width: 400px;
+
+}
+
+.first {
+    background-color: aquamarine;
+    text-align: justify;
+    
+
+
+}
+
+.second{
+    background-color: aquamarine;
+    text-align: justify;
+}
+
+.third{
+    background-color: aquamarine;
+    text-align: justify;
+    width: 500px;
+}
+
+.button {
+    padding: 10px;
+    margin: 10px;
+    width: 80px;
+    font-size: larger;
+    box-shadow: 1px 1px gray;
+}
+
+.five{
+    width: 100%;
+}
